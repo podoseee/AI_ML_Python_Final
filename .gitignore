@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+/data/raw_videos/
+/data/raw_keypoints/*
+!/data/raw_keypoints/__init__.py
+/data/test_keypoints/
+/data/processed/
+/data/dataset/
+/data/output/
+/checkpoints/
+/results/
